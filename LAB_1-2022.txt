@@ -1,0 +1,59 @@
+<html>
+    <head>
+      <title> EMPRESA DE CONTABILIAD </title>
+	</head>
+
+	<body>
+		<!--h1 se utiliza para titulares-->
+		
+		  <body><body bgcolor=" #69d0a3 ">
+		 
+		
+        <blockquote><h1> EMPRESA CONTABLE </h1></blockquote>
+		
+		 <body><body bgcolor=" #69d0a3 ">
+		  <hr>
+		 <p> 
+              	     
+			 <blockquote><br><b> NUESTRA MISIÓN </b></br></blockquote> 
+			 
+		      <blockquote>
+		         Nuestra empresa tiene como visión brindar soluciones contables, tributarias, laborales, y administativas<br>
+				 para personas, negocios y empresas en desarrollo, que deseen fortalecer y tercerizar estas áreas con<br>
+				 especialistas de la materia de nuestra empresa.<br>
+		      </blockquote>
+		  <hr>
+		   <blockquote><h2> COCINA Y MÁS </h2></blockquote>
+			<p>
+		 <p> 
+              	     
+			 <blockquote><br><b> NUESTRA VISIÓN </b></br></blockquote> 
+			 
+		      <blockquote>
+		         la visión que tenemos como una empresa contable es ser una de las consultoras contables más <br>
+				 competitivas y reconocidad en el mundo empresarial y ser de gran ayuda para sus clientes.<br>
+		      </blockquote>
+		
+			<HR>
+			<P>
+			p> 
+              	     
+			 <blockquote><br><b> NUESTROS OBJETIVOS  </b></br></blockquote> 
+			 
+		      <blockquote>
+		        1. Proporcionar información sobre cuaquiler hecho ecónomico y financiero que se de.<br>
+                2. LLevar un control y revisión constante en el tiempo de dichos movimientos, trazando así<br>
+                cúal es la marcha de la empresa en compración con la smetas y objetivos previamente propuestos.<br>
+                3. 	Determinar los resultados de manera acertada, para saber si las acciones económicas implantadas<br>
+				y diseñadas son o no las adecuadas.<br>			
+		      </blockquote>
+		
+			<HR>
+			<P>
+			     <cite> -José Raúl Meza López  </cite>
+			   </P>
+			<HR>
+				
+	</body>	  
+</html>		  
+
